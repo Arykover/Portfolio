@@ -1,0 +1,51 @@
+/* 
+    Document   : style
+    Created on : 6 oct. 2016, 10:42:40
+    Author     : welscher_f
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+
+
+
+.carousel-indicators {
+    top: 1.5rem;
+    right: 1.5rem;
+    bottom: auto;
+    left: auto;
+    width: 1rem;
+    margin-left: 0;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 20px;
+background: url(images/fond.jpg);
+background-size:100% 100%;
+background-repeat: no-repeat;
+background-attachment: fixed;
+}
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 70px;
+}
+
+
+/* FOOTER
+-------------------------------------------------- */
+/* Not required for template or sticky footer method. */
+
+
+.well{
+    height: 100%;
+}
