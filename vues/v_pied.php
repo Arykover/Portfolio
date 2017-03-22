@@ -15,11 +15,9 @@
                      <small>Design : Florian WELSCHER </small>
                   </div>
             
-                  <div class="col-md-5">
-                        <small> WELSCHER lorian Portfolio BTS SIO SLAM</small>        
-                  </div>
+                  <div class="col-md-8">
+                        <small> WELSCHER Florian Portfolio BTS SIO SLAM</small> 
 
-                  <div class="col-md-3">
                     <small><p class="muted pull-right"> © 2017 Tout droits reservés</p></small>
                  </div>
              </div>

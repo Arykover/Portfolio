@@ -68,6 +68,10 @@ switch($page){
     case 'Stage2' :
         require_once dirname(__FILE__).'/vues/v_stage2.php';
         break;
+    
+        case 'veille' :
+        require_once dirname(__FILE__).'/vues/v_veille.php';
+        break;
     }
     
     
