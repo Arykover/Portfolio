@@ -18,8 +18,7 @@
             <div class="collapse navbar-collapse" id="myNavbar">
               <ul class="nav navbar-nav">
                 <li><a href="index.php?page=acceuil"> Acceuil </a></li>
-                
-                <li><a href="index.php?page=BTS"> BTS SIO </a></li>
+
                 
                 <li class="dropdown">
                     <a class="dropdown-toggle" data-toggle="dropdown" href="#">Projets
@@ -49,6 +48,9 @@
 
                             </ul>
                 </li>
+                                
+                <li><a href="index.php?page=veille"> Veille </a></li>
+                
                 <li><a href="index.php?page=Contact"> Contact </a></li>
               </ul>
                 <div class="container col-md-offset-9">

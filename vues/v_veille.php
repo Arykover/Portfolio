@@ -1,8 +1,8 @@
   <SCRIPT language="Javascript"> 
  var member=""; //optionnel si vous etes inscrit sur la plateforme actifpub  le parametrage se fait dans votre espace membre 
- var fichier=" http://datatables.net/rss_news.xml"; 
+ var fichier="http://datatables.net/rss_news.xml"; 
  var limite="1";  //  sujets compris entre 1 
- var limite1="2";   //  et plus  
+ var limite1="1";   //  et plus  
  var aspect="1";  //  0 ou 1 (1 permet d'afficher lien + description, 0 que les liens)  
  var minute="1";  //  0 ou 1 (1 permet d'afficher date et heure, 0 pas de date et heure) 
  var sujet="1"; //  0 ou 1 (1 permet d'afficher le titre des sujets traités, 0 pas de titre )  
